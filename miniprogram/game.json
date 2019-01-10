@@ -1,0 +1,12 @@
+{
+    "deviceOrientation": "portrait",
+    "openDataContext": "myOpenDataContext",
+
+
+    "subpackages": [
+      {
+        "name": "stage1",
+        "root": "stage1"
+      }
+    ]
+}
