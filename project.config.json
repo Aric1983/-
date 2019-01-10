@@ -9,7 +9,7 @@
 	},
 	"compileType": "game",
 	"libVersion": "2.2.5",
-	"appid": "wx9fee19c3946a2179",
+	"appid": "",
 	"projectname": "%E4%B8%8A%E5%B8%9D%E5%8F%91%E8%AA%93",
 	"miniprogramRoot": "miniprogram/",
 	"cloudfunctionRoot": "cloudfunction/",
